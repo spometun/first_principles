@@ -1,9 +1,9 @@
 [submodule "src"]
 	path = src
 	url = git@github.com:spometun/first_principles_src.git
-[submodule "lang"]
-	path = lang
-	url = git@github.com:spometun/first_principles_languages_text.git
 [submodule "audio"]
 	path = audio
 	url = git@github.com:spometun/first_principles_languages_audio.git
+[submodule "lang"]
+	path = lang
+	url = git@github.com:spometun/first_principles_languages.git
