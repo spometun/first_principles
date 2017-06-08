@@ -4,3 +4,6 @@
 [submodule "lang"]
 	path = lang
 	url = git@github.com:spometun/first_principles_languages.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:spometun/first_principles_mobile.git
