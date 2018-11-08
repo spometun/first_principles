@@ -1,9 +1,9 @@
 [submodule "src"]
 	path = src
-	url = https://github.com/spometun/first_principles_src.git
+	url = git@github.com:spometun/first_principles_src.git
 [submodule "lang"]
 	path = lang
-	url = https://github.com/spometun/first_principles_languages.git
+	url = git@github.com:spometun/first_principles_languages.git
 [submodule "mobile"]
 	path = mobile
-	url = https://github.com/spometun/first_principles_mobile.git
+	url = git@github.com:spometun/first_principles_mobile.git
